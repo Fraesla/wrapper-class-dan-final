@@ -1,4 +1,4 @@
-Wrapper class
+Wrapper class :
 Wrapper class adalah kelas yang objeknya 
 membungkus atau berisi tipe data primitif.
 Ketika kita membuat objek ke wrapper class,
@@ -24,28 +24,28 @@ bukan tipe primitif.
 dalam multithreading
 
 Jenis wrapper class
-1. Autoboxing
+1. Autoboxing :
 Automatic konversi tipe primitif ke
 objek wrapper class yang sesuai 
 dikenal sebagai autoboxing. 
 Misalnya - konversi int ke Integer, 
 Long ke long, double ke Double, dll.
 
-2. Unboxing
+2. Unboxing :
 Automatic konversi mengkonversi objek 
 wrapper class ke tipe primitifnya yang
 sesuai dikenal sebagai unboxing. 
 Misalnya - konversi Integer ke int,
 Long ke long, Double ke double, dll.
 
-Final
+Final :
 Keyword final dapat digunakan dengan
 method dan variabel class. Final class 
 tidaj bisa instantiated , final method tidak bisa
 Overriddin dan final variabel tidak dapat
 Reassigned.
 
-Finally
+Finally :
 Keyword finally digunakan untuk membuat
 code block yang mengikuti test block. 
 Code block finally selalu dijalankan, 
@@ -54,7 +54,7 @@ Menggunakan finally block memungkinkan Anda untuk
 menjalankan pernyataan tipe clear apa pun yang ingin Anda jalankan,
 terlepas dari apa yang terjadi dalam kode yang dilindungi.
 
-Finallize
+Finallize :
 Method digunakan tepat sebelum objek 
 didestroyed dan dapat dipanggil sesaat 
 sebelum pembuatan objek.
